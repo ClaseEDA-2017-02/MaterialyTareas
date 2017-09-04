@@ -14,4 +14,4 @@ El proposito de este ejercicio es solamente probar el mecanismo de Github classr
 
     Especificaciones: TareaSort.pdf
 
-    Liga de entrega:
+    Liga de entrega: https://classroom.github.com/a/QZLpp_Fm
