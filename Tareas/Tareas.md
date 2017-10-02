@@ -15,3 +15,13 @@ El proposito de este ejercicio es solamente probar el mecanismo de Github classr
     Especificaciones: TareaSort.pdf
 
     Liga de entrega: https://classroom.github.com/a/QZLpp_Fm
+
+2. Tarea árboles AVL
+
+    Asignación: 2 de octubre
+
+    Entrega: 11 de octubre
+
+    Especificaciones: TareAVL.pdf
+
+    Liga de entrega: https://classroom.github.com/a/mqlTTYGw
