@@ -25,3 +25,13 @@ El proposito de este ejercicio es solamente probar el mecanismo de Github classr
     Especificaciones: TareAVL.pdf
 
     Liga de entrega: https://classroom.github.com/a/mqlTTYGw
+
+3. Tarea min heap en python
+
+   Asignación: 18 de octubre
+
+   Entrega: 1 de noviembre
+
+   Especificaciones: TareaHeapPython.pdf
+
+   Liga de entrega: https://classroom.github.com/a/JdoIeFWo
