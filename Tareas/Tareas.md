@@ -38,4 +38,7 @@ El proposito de este ejercicio es solamente probar el mecanismo de Github classr
 
 4. Tarea Opcional (vale 2 puntos de examen): 6 de diciembre
 
-   Especificaciones: Escriba el algoritmo de Prim en Python. Utilize la clase minheap que programó en la tarea pasada. Suba su código a GIT y muestre su ejecución al profesor. 
+
+   Especificaciones: Escriba el algoritmo de Prim en Python. Utilize la clase minheap que programó en la tarea pasada. Suba su código a GIT y muestre su ejecución al profesor.
+   
+   Liga de entrega: https://classroom.github.com/a/cEWq4wWu
